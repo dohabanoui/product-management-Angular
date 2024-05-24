@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "id": "3",
+      "name": "Phone",
+      "price": 5000,
+      "checked": true
+    },
+    {
+      "id": "31e3",
+      "name": "computer",
+      "price": "5000",
+      "checked": true
+    },
+    {
+      "id": "b900",
+      "name": "pc",
+      "price": "19999",
+      "checked": true
+    },
+    {
+      "id": "7886",
+      "name": "pc",
+      "price": "0",
+      "checked": true
+    }
+  ]
+}
